@@ -3,9 +3,6 @@ package ransomenote;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by chenyang on 16/11/1.
- */
 public class Main {
 
     public boolean canConstruct(String ransomNote, String magazine) {

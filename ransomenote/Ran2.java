@@ -2,9 +2,6 @@ package ransomenote2;
 
 import java.util.Arrays;
 
-/**
- * Created by chenyang on 16/11/1.
- */
 public class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
 
